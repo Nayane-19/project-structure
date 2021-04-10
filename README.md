@@ -1,5 +1,10 @@
 O controle de tarefas deste projeto será realizado no gitHub
 #### Criado uma estrutura padrão para todos seus projetos em Next.js
+
+>Dentro do seu terminal de comando:
+- Acessar a pasta que você deseja criar o projeto
+- Digitar o comando: npx create-next-app nome-projeto
+
 ### Estrutura do Projeto<br />
 <img src="https://media.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif" alt= "gif"><br />
 #### Excluído pastas: <br />
